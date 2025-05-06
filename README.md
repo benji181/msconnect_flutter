@@ -8,3 +8,4 @@ This project is a starting point for a Flutter application.**
 ## Demo
 
 ![Demo GIF](assets/The_video.mp4)
+assets/The_video.mp4
